@@ -1,4 +1,4 @@
-#Intro:
+# Intro:
 
 SustainableSwap is a revolutionary online e-commerce platform that aims to combat the ever-growing problem of electronic waste, also known as e-waste. E-waste is a significant contributor to environmental pollution, and it is estimated that by 2050, the world will generate over 120 million metric tons of e-waste annually. This alarming statistic is why SustainableSwap was created.
 
