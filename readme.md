@@ -1,5 +1,5 @@
+#Intro:
 
-#Intro
 SustainableSwap is a revolutionary online e-commerce platform that aims to combat the ever-growing problem of electronic waste, also known as e-waste. E-waste is a significant contributor to environmental pollution, and it is estimated that by 2050, the world will generate over 120 million metric tons of e-waste annually. This alarming statistic is why SustainableSwap was created.
 
 SustainableSwap allows users to sell spare parts that would otherwise be discarded in a landfill. These spare parts can come from various electronic devices, such as phones, computers, and tablets. By selling these spare parts, users can earn money while also doing their part to reduce e-waste and contribute to a more sustainable future.
