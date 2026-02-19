@@ -1,14 +1,6 @@
 # Intro:
 
-SustainableSwap is a revolutionary online e-commerce platform that aims to combat the ever-growing problem of electronic waste, also known as e-waste. E-waste is a significant contributor to environmental pollution, and it is estimated that by 2050, the world will generate over 120 million metric tons of e-waste annually. This alarming statistic is why SustainableSwap was created.
-
-SustainableSwap allows users to sell spare parts that would otherwise be discarded in a landfill. These spare parts can come from various electronic devices, such as phones, computers, and tablets. By selling these spare parts, users can earn money while also doing their part to reduce e-waste and contribute to a more sustainable future.
-
-The SustainableSwap platform is built using the latest technology, including React Native and Firebase. The use of these technologies ensures that the platform is fast, reliable, and secure. The platform allows users to easily upload spare parts and add important information such as device name, parts, notes, price, condition, type, latitude, and longitude. This information is used to help potential buyers find the parts they need quickly and easily.
-
-In addition to being a marketplace for spare parts, SustainableSwap also provides valuable resources and information to educate users about e-waste and the impact it has on the environment. The platform also aims to raise awareness about the importance of sustainability and encourages users to take an active role in reducing e-waste.
-
-SustainableSwap is more than just an online marketplace; it's a movement towards a more sustainable future. Join us today and be a part of the solution to combat e-waste and protect our environment.
+SustainableSwap is an innovative e-commerce platform designed to reduce electronic waste by giving users a way to sell spare parts from devices like phones, computers, and tablets instead of throwing them away. The platform helps users earn money while promoting sustainability. Built with React Native and Firebase, SustainableSwap is fast, secure, and easy to use, allowing sellers to upload parts with detailed information so buyers can quickly find what they need. Beyond being a marketplace, it also educates users about e-waste and encourages collective action toward a more sustainable future.
 
 # Pages Description:
 
